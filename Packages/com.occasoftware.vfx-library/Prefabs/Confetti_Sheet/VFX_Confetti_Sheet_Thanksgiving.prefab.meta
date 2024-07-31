@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0090967c02d5234fa3099a5d058ec84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Sheet/VFX_Confetti_Sheet_Thanksgiving.prefab
+  uploadId: 641739

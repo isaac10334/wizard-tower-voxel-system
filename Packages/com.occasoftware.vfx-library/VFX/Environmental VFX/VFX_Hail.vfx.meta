@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aec368587d3ee254da0f6c0580fd88db
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Hail.vfx
+  uploadId: 641739

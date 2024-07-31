@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7160b0ef0ac67424f8b024e3f4b9d7cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Snow/VFX_Snow_Blizzard.prefab
+  uploadId: 641739

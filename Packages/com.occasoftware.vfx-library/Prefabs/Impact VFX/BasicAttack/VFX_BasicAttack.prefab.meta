@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7149bf04711924945b1ea7b65eda36a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Impact VFX/BasicAttack/VFX_BasicAttack.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac58a2fced4378c4c962b8fd01367fa3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Dust/VFX_Dust_Light.prefab
+  uploadId: 641739

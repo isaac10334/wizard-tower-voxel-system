@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df4abb89de2904f41a6f7bc81b2ca76a
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/VFX_RainbowSparks.vfx
+  uploadId: 641739

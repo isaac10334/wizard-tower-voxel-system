@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57acfc5bd5b9fbe4685b4fbfb173445c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ChestOpen/VFX_ChestOpen_Violet.prefab
+  uploadId: 641739

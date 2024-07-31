@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac938533b92484940a62509341885f19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Sand_Ground/VFX_Sand_Ground_Small.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d202d89ae9f79b144a5ffde813248a5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Sheet/VFX_Confetti_Sheet_Spring.prefab
+  uploadId: 641739

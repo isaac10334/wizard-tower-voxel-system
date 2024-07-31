@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 476b22b71a6ab474a995ccb62312ae8e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Wind/VFX_Wind_Strong.prefab
+  uploadId: 641739

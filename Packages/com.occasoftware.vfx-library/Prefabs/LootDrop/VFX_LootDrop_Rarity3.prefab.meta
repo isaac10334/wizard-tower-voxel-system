@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 040f1d0752094a74394122e79f583868
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/LootDrop/VFX_LootDrop_Rarity3.prefab
+  uploadId: 641739

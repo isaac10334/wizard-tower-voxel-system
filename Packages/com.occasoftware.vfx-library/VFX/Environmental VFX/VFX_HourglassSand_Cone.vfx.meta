@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6993d0e39b29f194e82b5d329f41c9b4
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_HourglassSand_Cone.vfx
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 116d7675b4a334f489a2fa2a0c5556cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_SheetBurst/VFX_Confetti_SheetBurst.prefab
+  uploadId: 641739

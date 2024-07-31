@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4efdb85bde6f57f43806044f8d22dafa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Impact VFX/GroundSlash/VFX_GroundSlash.prefab
+  uploadId: 641739

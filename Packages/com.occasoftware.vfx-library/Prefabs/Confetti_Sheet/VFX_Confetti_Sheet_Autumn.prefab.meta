@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86e6b5424622ca443806c36cf616b7d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Sheet/VFX_Confetti_Sheet_Autumn.prefab
+  uploadId: 641739

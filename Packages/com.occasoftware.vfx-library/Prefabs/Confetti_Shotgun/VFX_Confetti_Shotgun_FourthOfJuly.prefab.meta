@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 02d11b8496b66a5449ec9ddd994c83db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Shotgun/VFX_Confetti_Shotgun_FourthOfJuly.prefab
+  uploadId: 641739

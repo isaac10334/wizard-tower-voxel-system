@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 968450c1e971b81438126a22c8221d1b
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_LightSnow.vfx
+  uploadId: 641739

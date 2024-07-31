@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7419903768578927212
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 751212248314277963, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 751212248314277963, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 751212248314277963, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 751212248314277963, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Name
+      value: Size
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
+      value: Speed
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Name
+      value: Emission
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Value
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Value
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5188319786457056656, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903741762501749164, guid: ca17184a9e8b198418c6e2db52d5caab,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_ShootingStars_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca17184a9e8b198418c6e2db52d5caab, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28a899e7a6978314c8ff2e83bfbae541
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_BioluminescentPlankton.vfx
+  uploadId: 641739

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/AwesomeNetworkingTest/ExampleScene.unity
+    guid: 14d57e8565c1ff64db611ec801064959
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6c96529a4963b424abc9fc0abc3dac67,
+      type: 3}
+  m_UseUCBPForAssetBundles: 0

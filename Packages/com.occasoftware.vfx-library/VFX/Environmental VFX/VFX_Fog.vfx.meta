@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c50e89d17bba51b4b925c51ad90b166a
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Fog.vfx
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 337264ebf547048488451f3e583dc472
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Impact VFX/Gunfire/VFX_Gunfire.prefab
+  uploadId: 641739

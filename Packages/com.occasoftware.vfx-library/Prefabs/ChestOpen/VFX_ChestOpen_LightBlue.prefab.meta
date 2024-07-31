@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a05a7a79ed3eea7488f0ca126a8d459e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ChestOpen/VFX_ChestOpen_LightBlue.prefab
+  uploadId: 641739

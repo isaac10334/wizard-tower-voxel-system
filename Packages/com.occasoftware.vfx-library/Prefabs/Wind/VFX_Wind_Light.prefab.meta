@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80f598d35c4d0bd489f1644bc79ed772
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Wind/VFX_Wind_Light.prefab
+  uploadId: 641739

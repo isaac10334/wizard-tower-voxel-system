@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cbb3423f0ce3dd48a781853a36eb0db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Pop/VFX_Confetti_Pop.prefab
+  uploadId: 641739

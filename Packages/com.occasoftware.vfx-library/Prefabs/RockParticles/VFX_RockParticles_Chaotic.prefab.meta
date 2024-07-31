@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fb09c86e73db15458f838c02cef5f93
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/RockParticles/VFX_RockParticles_Chaotic.prefab
+  uploadId: 641739

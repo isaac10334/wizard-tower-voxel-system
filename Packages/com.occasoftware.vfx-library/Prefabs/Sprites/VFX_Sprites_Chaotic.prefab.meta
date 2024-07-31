@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc87e4a639dcec54bbf007f797e152dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Sprites/VFX_Sprites_Chaotic.prefab
+  uploadId: 641739

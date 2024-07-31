@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b81a137a8104b4945a4464d44d40113d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Sheet/VFX_Confetti_Sheet_Christmas.prefab
+  uploadId: 641739

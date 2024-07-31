@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e28f51a4852f5a64ba5d9f4c4db26bfe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258881
+  packageName: Buto 2022
+  packageVersion: 7.7.3
+  assetPath: Packages/com.occasoftware.buto/Samples/DemoContent/Scripts/AnimateButoSetting.cs
+  uploadId: 641191

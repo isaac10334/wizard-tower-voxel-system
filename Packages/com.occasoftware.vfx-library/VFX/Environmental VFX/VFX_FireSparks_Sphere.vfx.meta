@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a4e26fd65c3f924fbf1188d0ce26a0f
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_FireSparks_Sphere.vfx
+  uploadId: 641739

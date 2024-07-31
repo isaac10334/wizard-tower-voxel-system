@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 950bdf0c13cc0344c94b0ff7b83ab143
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_SheetBurst/VFX_Confetti_SheetBurst_StPatricksDay.prefab
+  uploadId: 641739

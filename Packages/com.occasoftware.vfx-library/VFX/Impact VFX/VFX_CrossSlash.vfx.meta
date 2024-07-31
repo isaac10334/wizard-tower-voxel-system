@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b17cd8158dbfbfa4cb8718b5d0baa925
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/VFX_CrossSlash.vfx
+  uploadId: 641739

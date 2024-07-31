@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c70ab66051412b14ca0ac3c27fb2b207
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_GlowingEnergy.vfx
+  uploadId: 641739

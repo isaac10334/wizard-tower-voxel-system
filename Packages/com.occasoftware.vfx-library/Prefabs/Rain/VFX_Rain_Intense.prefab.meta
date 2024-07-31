@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83bf9ffc4478ddb48861287b94acd014
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Rain/VFX_Rain_Intense.prefab
+  uploadId: 641739

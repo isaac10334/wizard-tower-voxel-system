@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e255fab9bb83eef47b4b25a8acf2a2bc
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Dust.vfx
+  uploadId: 641739

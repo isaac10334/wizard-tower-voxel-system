@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88809b3864b4f2a4d9b45c958532a051
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/VFX_RedSparks.vfx
+  uploadId: 641739

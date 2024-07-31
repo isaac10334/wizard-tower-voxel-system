@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19eecdf5ad385354f9cb7658346eed4a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_SheetBurst/VFX_Confetti_SheetBurst_Halloween.prefab
+  uploadId: 641739

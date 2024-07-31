@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0cbb772c6232c24ba266f6fe62ac808
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Snow.vfx
+  uploadId: 641739

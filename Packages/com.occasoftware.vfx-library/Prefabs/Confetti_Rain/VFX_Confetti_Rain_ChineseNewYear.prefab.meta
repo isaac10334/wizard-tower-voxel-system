@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 92e181184fd052c4fb4b64366f67ce5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Rain/VFX_Confetti_Rain_ChineseNewYear.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03e2555e8fc338845b225523408be544
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Sheet/VFX_Confetti_Sheet_FourthOfJuly.prefab
+  uploadId: 641739

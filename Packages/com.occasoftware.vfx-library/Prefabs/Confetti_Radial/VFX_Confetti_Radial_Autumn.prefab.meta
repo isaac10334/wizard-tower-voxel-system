@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ba522bb14d32eb49907a8966810d7e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_Autumn.prefab
+  uploadId: 641739

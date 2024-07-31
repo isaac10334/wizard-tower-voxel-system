@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b5cb63e1cd87bb44bb2af35214cb275
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/Unfinished/Box
+    Explosion.vfx
+  uploadId: 641739

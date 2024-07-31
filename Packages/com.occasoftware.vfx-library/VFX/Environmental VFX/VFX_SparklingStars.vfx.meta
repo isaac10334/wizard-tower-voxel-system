@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 500e12d6764cf3b4f9f7d3f7936e35df
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_SparklingStars.vfx
+  uploadId: 641739

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cad3b9ee2dbb408391dc3b4e9eb5fe54, type: 3}
+  m_Name: VoxelSystemSettings
+  m_EditorClassIdentifier: 
+  Settings:
+    DefaultMaterial: {fileID: 2100000, guid: 9cfbf3ee079511e4aaf4a49dd7e71082, type: 2}
+    VoxelDataGeneratorResource: {fileID: 11400000, guid: e7172e656e979a747b80070c0de00729,
+      type: 2}
+    VoxelMeshingResource: {fileID: 11400000, guid: 3c265db6f4662a342837542eab2fe331,
+      type: 2}

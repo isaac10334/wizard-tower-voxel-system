@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8c656ab753f3a549a8d3fd214f85f39
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ChestOpen/VFX_ChestOpen_NoSparks.prefab
+  uploadId: 641739

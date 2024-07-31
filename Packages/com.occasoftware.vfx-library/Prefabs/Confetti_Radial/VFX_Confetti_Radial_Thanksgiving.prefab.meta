@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ceb541a322e5704590d90a58cd932eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_Thanksgiving.prefab
+  uploadId: 641739

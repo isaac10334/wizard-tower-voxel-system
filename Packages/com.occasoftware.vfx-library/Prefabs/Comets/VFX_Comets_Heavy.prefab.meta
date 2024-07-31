@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75524bf0d7a045c45959a016e580f9cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Comets/VFX_Comets_Heavy.prefab
+  uploadId: 641739

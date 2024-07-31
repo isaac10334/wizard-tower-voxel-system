@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96fb2cd1833822b4e85b07d8b3ca6a68
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Shotgun/VFX_Confetti_Shotgun_Christmas.prefab
+  uploadId: 641739

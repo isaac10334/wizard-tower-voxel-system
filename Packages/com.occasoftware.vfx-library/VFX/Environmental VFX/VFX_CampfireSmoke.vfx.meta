@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 950a0322180d6714aad840e7df24bcfb
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_CampfireSmoke.vfx
+  uploadId: 641739

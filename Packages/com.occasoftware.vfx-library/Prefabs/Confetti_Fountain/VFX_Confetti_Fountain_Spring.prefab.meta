@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72f0a737883d7cb4ca272f93d1eee51a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Fountain/VFX_Confetti_Fountain_Spring.prefab
+  uploadId: 641739

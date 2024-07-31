@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4de8dd48b7566344895e18b2b3e476f
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Bubbles.vfx
+  uploadId: 641739

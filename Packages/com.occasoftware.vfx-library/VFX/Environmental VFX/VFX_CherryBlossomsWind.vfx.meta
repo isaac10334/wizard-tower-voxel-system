@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e912cc9f87ea9b44f8ea8664e57d3fa7
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_CherryBlossomsWind.vfx
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f41a6446348775448c270ba4209dd99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Fountain/VFX_Confetti_Fountain_Thanksgiving.prefab
+  uploadId: 641739

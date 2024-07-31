@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fab3cf0ded8a58241b9823309679f616
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ChestOpen/VFX_ChestOpen_Turquoise.prefab
+  uploadId: 641739

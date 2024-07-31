@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6138ee3c43d34648ba2a05c5ad470c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Shotgun/VFX_Confetti_Shotgun_Easter.prefab
+  uploadId: 641739

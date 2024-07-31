@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6307969646176413829
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Name
+      value: Lifetime
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
+      value: Time Between Bursts
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Value
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Value
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 764077398352446669, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013863458772168268, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013863458772168268, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013863458772168268, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5013863458772168268, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829146529799954937, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_Lightning_Fast
+      objectReference: {fileID: 0}
+    - target: {fileID: 6966860847568967977, guid: d78bacfa9b4a81544bf52492e3e8766c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d78bacfa9b4a81544bf52492e3e8766c, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa8e4db1c2396c04c99df58f67f62a31
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_SandSprays_LowPoly.vfx
+  uploadId: 641739

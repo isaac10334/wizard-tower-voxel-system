@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e7f5e503f47286458b515f888b4862f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Samples/OccaSoftware.VFXLibrary.Demo.asmdef
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3fedf10adf5a1d74f96ba2090cc07f19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/WaterFountain/VFX_WaterFountain_Intense.prefab
+  uploadId: 641739

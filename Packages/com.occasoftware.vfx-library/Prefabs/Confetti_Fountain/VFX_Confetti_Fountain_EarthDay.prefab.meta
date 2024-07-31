@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c88113d01302059479353ce36731f689
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Fountain/VFX_Confetti_Fountain_EarthDay.prefab
+  uploadId: 641739

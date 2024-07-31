@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ba1c13b7ab3add4c816f536ea06d964
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Impact VFX/PowerUp/VFX_PowerUp.prefab
+  uploadId: 641739

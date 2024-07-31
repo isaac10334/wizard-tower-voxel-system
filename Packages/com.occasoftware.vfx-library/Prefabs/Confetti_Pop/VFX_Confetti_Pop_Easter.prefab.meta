@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2f77ec62aebe16419ae34065db59985
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Pop/VFX_Confetti_Pop_Easter.prefab
+  uploadId: 641739

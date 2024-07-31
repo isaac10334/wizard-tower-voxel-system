@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc51a2df9f9249f4bbf79bebba6a1302
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_Spring.prefab
+  uploadId: 641739

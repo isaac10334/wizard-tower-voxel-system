@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd31c5365ccf2244eb8ad47247ee40dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Fountain/VFX_Confetti_Fountain_StPatricksDay.prefab
+  uploadId: 641739

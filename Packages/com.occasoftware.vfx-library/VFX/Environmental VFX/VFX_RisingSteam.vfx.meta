@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3043128074a616e428280c5a5c8255d1
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_RisingSteam.vfx
+  uploadId: 641739

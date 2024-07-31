@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4ed441553ee12f4b9adac57bf6a063d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Shotgun/VFX_Confetti_Shotgun_ValentinesDay.prefab
+  uploadId: 641739

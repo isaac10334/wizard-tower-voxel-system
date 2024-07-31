@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be6e089a71be0e64bba99a4dcc4452e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Pop/VFX_Confetti_Pop_StPatricksDay.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 452cb4dd9357fd54a98c1bc7b2ad0c7b
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_WaterFountain_Stylized.vfx
+  uploadId: 641739

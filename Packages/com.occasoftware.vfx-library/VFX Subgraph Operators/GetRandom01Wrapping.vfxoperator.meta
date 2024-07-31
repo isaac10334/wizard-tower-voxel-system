@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75b9189c7ec0aa04099b2b9f0144a2c1
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX Subgraph Operators/GetRandom01Wrapping.vfxoperator
+  uploadId: 641739

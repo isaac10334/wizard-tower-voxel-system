@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9a9fe73a72f20b459998276a9d8e0c8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ChestOpen/VFX_ChestOpen_Indigo.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 149f6cca8811e284a866dfc0d208fea6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/RockParticles/VFX_RockParticles_Light.prefab
+  uploadId: 641739

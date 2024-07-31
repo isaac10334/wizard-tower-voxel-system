@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a955fc8b800147488b05e1e7aecd4b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Sprites/VFX_Sprites.prefab
+  uploadId: 641739

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2134194185057286744
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 560245447038403341, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 560245447038403341, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560245447038403341, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560245447038403341, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668174519409260264, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_Comets_Heavy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Name
+      value: Emission
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
+      value: Trail Lifetime
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Name
+      value: Head Size
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[3].m_Name
+      value: Trail Speed
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Value
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Value
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Value
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[3].m_Value
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7491686940772559615, guid: 89c514c10e4b1ca4e928d66bf67e1823,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[3].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 89c514c10e4b1ca4e928d66bf67e1823, type: 3}

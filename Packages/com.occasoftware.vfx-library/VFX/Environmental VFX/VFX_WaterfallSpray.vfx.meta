@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4d52901732e0024db05b2f9b042d65e
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_WaterfallSpray.vfx
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62c31bb45374c554fa4025dd7ccf73a3
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX Subgraph Blocks/Lifetime Randomness.vfxblock
+  uploadId: 641739

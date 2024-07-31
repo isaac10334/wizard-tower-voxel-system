@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3df1e4ef3c917cc4a9439fe4aca17bc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Snow/VFX_Snow_Heavy.prefab
+  uploadId: 641739

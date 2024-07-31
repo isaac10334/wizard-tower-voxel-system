@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5b4e50b6931a2e48857f3008e043b7b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Shotgun/VFX_Confetti_Shotgun_Winter.prefab
+  uploadId: 641739

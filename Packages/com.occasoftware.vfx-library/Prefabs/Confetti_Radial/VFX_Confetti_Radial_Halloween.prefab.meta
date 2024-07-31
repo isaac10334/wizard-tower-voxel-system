@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 954568e3aea8dba4b852ef3d6fbbe531
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_Halloween.prefab
+  uploadId: 641739

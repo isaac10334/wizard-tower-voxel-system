@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e03ca62b61ab5b1449506291b64d71db
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_SandSpray.vfx
+  uploadId: 641739

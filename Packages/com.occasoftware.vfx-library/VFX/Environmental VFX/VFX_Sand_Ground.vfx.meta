@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 545c999c706bf2d41a3cb4335410555b
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Sand_Ground.vfx
+  uploadId: 641739

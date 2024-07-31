@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f222c2a878f8cce47ae4e98c9c6ddf20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Rain/VFX_Confetti_Rain.prefab
+  uploadId: 641739

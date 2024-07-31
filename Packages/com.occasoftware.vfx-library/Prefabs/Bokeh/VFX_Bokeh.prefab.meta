@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 405c0da63185d744eb6ea68e7920671a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Bokeh/VFX_Bokeh.prefab
+  uploadId: 641739

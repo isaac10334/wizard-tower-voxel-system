@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0696bb1990a89b64580e795708940d40
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_SheetBurst/VFX_Confetti_SheetBurst_ChineseNewYear.prefab
+  uploadId: 641739

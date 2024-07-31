@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca3f062e024630046b58bc6ffd4dc2eb
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_SwirlingDust.vfx
+  uploadId: 641739

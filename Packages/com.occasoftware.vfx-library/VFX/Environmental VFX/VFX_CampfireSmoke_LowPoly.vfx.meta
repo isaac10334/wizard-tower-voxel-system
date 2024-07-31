@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc0efdee319c55544bc1774d2ea53aba
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_CampfireSmoke_LowPoly.vfx
+  uploadId: 641739

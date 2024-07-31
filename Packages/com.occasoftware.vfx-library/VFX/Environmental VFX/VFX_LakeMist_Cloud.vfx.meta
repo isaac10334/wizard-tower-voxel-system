@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9f469f6453ab6b48bb3445bbc6f61b9
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_LakeMist_Cloud.vfx
+  uploadId: 641739

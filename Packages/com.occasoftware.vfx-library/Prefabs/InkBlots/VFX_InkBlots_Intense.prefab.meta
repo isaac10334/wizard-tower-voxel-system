@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2119436792cc5de4bb9822cf32baea57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/InkBlots/VFX_InkBlots_Intense.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07c7b00b02165564da5f08e71d9d27d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ShootingStars/VFX_ShootingStars_Intense.prefab
+  uploadId: 641739

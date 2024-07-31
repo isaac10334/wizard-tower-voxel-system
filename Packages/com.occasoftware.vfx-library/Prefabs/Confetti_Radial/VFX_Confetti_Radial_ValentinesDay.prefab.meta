@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cebd6344b4ea4044e9551d38327775e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_ValentinesDay.prefab
+  uploadId: 641739

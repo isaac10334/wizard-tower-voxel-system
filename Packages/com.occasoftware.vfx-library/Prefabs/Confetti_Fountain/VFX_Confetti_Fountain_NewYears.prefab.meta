@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55bf5519aa311d2408d937a280caa6c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Fountain/VFX_Confetti_Fountain_NewYears.prefab
+  uploadId: 641739

@@ -1,0 +1,21 @@
+{
+    "name": "VoxelDataGeneratorGraph",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "USE_EXPERIMENTAL_VOXEL_GRAPH"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23fb25c7169405441953f1138e9fa209
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Impact VFX/HitSparks/VFX_HitSparks.prefab
+  uploadId: 641739

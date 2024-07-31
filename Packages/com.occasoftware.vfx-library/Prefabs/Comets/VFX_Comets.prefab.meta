@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89c514c10e4b1ca4e928d66bf67e1823
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Comets/VFX_Comets.prefab
+  uploadId: 641739

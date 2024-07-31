@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17bbc94fcab61d5468290eecd27822cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/WaterFountain/VFX_WaterFountain_Chaotic.prefab
+  uploadId: 641739

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53dd36441841f6b478707b4e7544c3cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Pop/VFX_Confetti_Pop_NewYears.prefab
+  uploadId: 641739

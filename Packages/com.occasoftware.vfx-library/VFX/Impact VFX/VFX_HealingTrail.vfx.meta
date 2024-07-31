@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea7a5aae65afbd24e95a6b1ae5dae8fc
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/VFX_HealingTrail.vfx
+  uploadId: 641739

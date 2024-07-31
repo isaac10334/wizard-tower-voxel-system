@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa08ac978a1df804aa0f71d1bbc685fb
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_HotSpringsSteam.vfx
+  uploadId: 641739

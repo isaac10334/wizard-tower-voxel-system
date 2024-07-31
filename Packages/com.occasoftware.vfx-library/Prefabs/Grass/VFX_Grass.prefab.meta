@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db47a66ccb3b6b14cb1780b62a9dfe69
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Grass/VFX_Grass.prefab
+  uploadId: 641739

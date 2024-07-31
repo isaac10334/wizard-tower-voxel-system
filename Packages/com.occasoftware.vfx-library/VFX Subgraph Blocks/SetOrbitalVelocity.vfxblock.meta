@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ecc0eef1efb51e94b8da1f1f4b1c84af
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX Subgraph Blocks/SetOrbitalVelocity.vfxblock
+  uploadId: 641739

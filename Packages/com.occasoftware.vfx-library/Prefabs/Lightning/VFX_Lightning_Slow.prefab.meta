@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a38e37479c4564a4ab53ba4efd2a055a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Lightning/VFX_Lightning_Slow.prefab
+  uploadId: 641739

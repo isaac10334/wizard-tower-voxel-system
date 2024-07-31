@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d230a125746f41740a3e7baf73591ec0
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Impact VFX/VFX_HitSparks.vfx
+  uploadId: 641739

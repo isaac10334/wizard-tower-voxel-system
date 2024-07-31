@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 232b0ce0d34556e48a0a8e097f18384d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Sand_Ground/VFX_Sand_Ground_DesertSand.prefab
+  uploadId: 641739

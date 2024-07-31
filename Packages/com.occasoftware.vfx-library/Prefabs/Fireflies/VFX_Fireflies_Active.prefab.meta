@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44c641c0018f17243b3467085eef7ec0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Fireflies/VFX_Fireflies_Active.prefab
+  uploadId: 641739

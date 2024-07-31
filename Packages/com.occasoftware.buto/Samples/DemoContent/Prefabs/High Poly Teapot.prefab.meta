@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 613ef7601df24f84982e66a6f93bc77d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258881
+  packageName: Buto 2022
+  packageVersion: 7.7.3
+  assetPath: Packages/com.occasoftware.buto/Samples/DemoContent/Prefabs/High Poly
+    Teapot.prefab
+  uploadId: 641191

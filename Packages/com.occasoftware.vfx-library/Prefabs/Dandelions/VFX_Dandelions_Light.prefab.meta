@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac94e0346a00ffb44b6ec0c524f9a7fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Dandelions/VFX_Dandelions_Light.prefab
+  uploadId: 641739

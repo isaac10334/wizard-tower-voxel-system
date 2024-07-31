@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1c536396a91b7b4095ab7bc71b90ba5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/RockParticles/VFX_RockParticles_Intense.prefab
+  uploadId: 641739

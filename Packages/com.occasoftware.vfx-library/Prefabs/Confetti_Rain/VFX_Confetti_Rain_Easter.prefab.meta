@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8490b2885cfbde44a9a25a6487366f98
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Rain/VFX_Confetti_Rain_Easter.prefab
+  uploadId: 641739

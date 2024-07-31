@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5421687728974769810
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1537595341743451100, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key0.b
+      value: 0.4901961
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key0.g
+      value: 0.7686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key0.r
+      value: 0.5764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key1.b
+      value: 0.427451
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key1.g
+      value: 0.68235296
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key1.r
+      value: 0.41960788
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key2.b
+      value: 0.7686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key2.g
+      value: 0.8745099
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key2.r
+      value: 0.5254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key3.b
+      value: 0.69803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key3.g
+      value: 0.58431375
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key3.r
+      value: 0.03529412
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key4.b
+      value: 0.13333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key4.g
+      value: 0.32156864
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key4.r
+      value: 0.43921572
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key5.b
+      value: 0.35686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key5.g
+      value: 0.6431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 2590893825872923832, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxGradient.key5.r
+      value: 0.86274517
+      objectReference: {fileID: 0}
+    - target: {fileID: 7949885442063607127, guid: 782e42d458cd8dd499bc95c66ca9377d,
+        type: 3}
+      propertyPath: m_Name
+      value: Shotgun Earth Day
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 782e42d458cd8dd499bc95c66ca9377d, type: 3}

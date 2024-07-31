@@ -1,0 +1,866 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8471449401483445509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f73bd2c057d87c4cac3739043dca779, type: 3}
+  m_Name: Color
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 168, y: -136}
+  ports:
+    keys:
+    - input
+    - colorOutput
+    values:
+    - _fieldName: input
+      _node: {fileID: -8471449401483445509}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: outputIfLessOrEqual
+        node: {fileID: 5351833569288743122}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: colorOutput
+      _node: {fileID: -8471449401483445509}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  color:
+    serializedVersion: 2
+    rgba: 4278255360
+--- !u!114 &-6358505557939680063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e55bb52db5d8b6b40ad0e082873824e7, type: 3}
+  m_Name: Get Noise Surface
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -440, y: 24}
+  ports:
+    keys:
+    - input
+    - surface
+    values:
+    - _fieldName: input
+      _node: {fileID: -6358505557939680063}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: noiseValue
+        node: {fileID: 8741148153728064654}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: surface
+      _node: {fileID: -6358505557939680063}
+      _typeQualifiedName: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: y
+        node: {fileID: -2044779051548445181}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  materialId: 0
+  input: 0
+  surface: 0
+--- !u!114 &-6264965873058260197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: DomainWarpFractalProgressive
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1064, y: -248}
+  ports:
+    keys:
+    - output
+    - domainwarpsource
+    - gain
+    - weightedstrength
+    values:
+    - _fieldName: output
+      _node: {fileID: -6264965873058260197}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: fastNoiseTree
+        node: {fileID: 8741148153728064654}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: domainwarpsource
+      _node: {fileID: -6264965873058260197}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -964606614544246926}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: gain
+      _node: {fileID: -6264965873058260197}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: weightedstrength
+      _node: {fileID: -6264965873058260197}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+  isVisible: 0
+  metadataId: 17
+  output:
+    encodedNodeTree: EQACAAAAAAAgQBAAAAAAQBkAEwCPwnU9DQAEAAAAAAAgQAkAAGZmJj8AAAAAPwEEAAAAAAAAAAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZGT4AMzMzPwAAAAA/
+--- !u!114 &-6129261336376611457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9dcece110b2866499c16a13520f0077, type: 3}
+  m_Name: Magica Voxel Object
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 152, y: -8}
+  ports:
+    keys:
+    - samplePosition
+    - color
+    - material
+    values:
+    - _fieldName: samplePosition
+      _node: {fileID: -6129261336376611457}
+      _typeQualifiedName: Unity.Mathematics.int2, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -2044779051548445181}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: color
+      _node: {fileID: -6129261336376611457}
+      _typeQualifiedName: UnityEngine.Color32, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: material
+      _node: {fileID: -6129261336376611457}
+      _typeQualifiedName: System.UInt32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  voxelFile: {fileID: -1032374344264011112, guid: 6445ca59760473d418eecd1c5468a0c8,
+    type: 3}
+  samplePosition:
+    x: 0
+    y: 0
+  color:
+    serializedVersion: 2
+    rgba: 0
+  material: 0
+--- !u!114 &-5677772118446282477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: FractalFBm
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -2360, y: 136}
+  ports:
+    keys:
+    - output
+    - source
+    - gain
+    - weightedstrength
+    values:
+    - _fieldName: output
+      _node: {fileID: -5677772118446282477}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: source
+        node: {fileID: 3156574964033910066}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: source
+      _node: {fileID: -5677772118446282477}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: 1871011231831569105}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: gain
+      _node: {fileID: -5677772118446282477}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: weightedstrength
+      _node: {fileID: -5677772118446282477}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+  isVisible: 0
+  metadataId: 13
+  output:
+    encodedNodeTree: DQADAAAAAAAAQAkAAAAAAD8AAAAAAA==
+--- !u!114 &-3667727662149428359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 540aecb4814666e4f80dad5912fa2a06, type: 3}
+  m_Name: castles
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -552, y: 200}
+  ports:
+    keys:
+    - output
+    - parent
+    - child
+    values:
+    - _fieldName: output
+      _node: {fileID: -3667727662149428359}
+      _typeQualifiedName: Unity.Mathematics.int2, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: -2044779051548445181}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: parent
+      _node: {fileID: -3667727662149428359}
+      _typeQualifiedName: VoxelDataGeneratorGraph.PointNodeConnection, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: child
+      _node: {fileID: -3667727662149428359}
+      _typeQualifiedName: VoxelDataGeneratorGraph.PointNodeConnection, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  output:
+    x: 0
+    y: 0
+  voxelsBetweenPoints: 32
+  radius: 23
+--- !u!114 &-2044779051548445181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e91d1527f502b4fab22305c976dbf6, type: 3}
+  m_Name: Override Position
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -136, y: 88}
+  ports:
+    keys:
+    - x
+    - y
+    - z
+    - input
+    - output
+    values:
+    - _fieldName: x
+      _node: {fileID: -2044779051548445181}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: y
+      _node: {fileID: -2044779051548445181}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: surface
+        node: {fileID: -6358505557939680063}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: z
+      _node: {fileID: -2044779051548445181}
+      _typeQualifiedName: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: input
+      _node: {fileID: -2044779051548445181}
+      _typeQualifiedName: Unity.Mathematics.int3, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -3667727662149428359}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: output
+      _node: {fileID: -2044779051548445181}
+      _typeQualifiedName: Unity.Mathematics.int2, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: samplePosition
+        node: {fileID: -6129261336376611457}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  materialId: 0
+  x: 0
+  y: 0
+  z: 0
+  input:
+    x: 0
+    y: 0
+    z: 0
+  output:
+    x: 0
+    y: 0
+--- !u!114 &-1845405442299436194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: Add
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1720, y: -248}
+  ports:
+    keys:
+    - output
+    - lhs
+    - rhs
+    values:
+    - _fieldName: output
+      _node: {fileID: -1845405442299436194}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: source
+        node: {fileID: -964606614544246926}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: lhs
+      _node: {fileID: -1845405442299436194}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: 3156574964033910066}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: rhs
+      _node: {fileID: -1845405442299436194}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: 144683806626712062}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+  isVisible: 0
+  metadataId: 25
+  output:
+    encodedNodeTree: GQATAMP1KD8NAAQAAAAAACBACQAAZmYmPwAAAAA/AQQAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+--- !u!114 &-964606614544246926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: DomainWarpGradient
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1384, y: -232}
+  ports:
+    keys:
+    - output
+    - source
+    - warpamplitude
+    values:
+    - _fieldName: output
+      _node: {fileID: -964606614544246926}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: domainwarpsource
+        node: {fileID: -6264965873058260197}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: source
+      _node: {fileID: -964606614544246926}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -1845405442299436194}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+    - _fieldName: warpamplitude
+      _node: {fileID: -964606614544246926}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+  isVisible: 0
+  metadataId: 16
+  output:
+    encodedNodeTree: EAAAAABAGQATAI/CdT0NAAQAAAAAACBACQAAZmYmPwAAAAA/AQQAAAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpkZPg==
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4727dded54173054786fabc09d30bea2, type: 3}
+  m_Name: ProceduralWorldGraph
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 8080864185655154384}
+  - {fileID: 8741148153728064654}
+  - {fileID: 5351833569288743122}
+  - {fileID: 1871011231831569105}
+  - {fileID: 144683806626712062}
+  - {fileID: -1845405442299436194}
+  - {fileID: 3156574964033910066}
+  - {fileID: -5677772118446282477}
+  - {fileID: -964606614544246926}
+  - {fileID: -6264965873058260197}
+  - {fileID: -8471449401483445509}
+  - {fileID: -3667727662149428359}
+  - {fileID: -6129261336376611457}
+  - {fileID: -2044779051548445181}
+  - {fileID: -6358505557939680063}
+  previewErrorMessage: 
+  settings:
+    _gridLineColor:
+      serializedVersion: 2
+      rgba: 4282071867
+    _gridBgColor:
+      serializedVersion: 2
+      rgba: 4281348144
+    maxZoom: 5
+    minZoom: 1
+    tintColor:
+      serializedVersion: 2
+      rgba: 4285096282
+    highlightColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridSnap: 1
+    autoSave: 1
+    openOnCreate: 1
+    dragToCreate: 1
+    createFilter: 1
+    zoomToMouse: 1
+    portTooltips: 1
+    typeColorsData: 
+    noodlePath: 0
+    noodleThickness: 2
+    noodleStroke: 0
+  enablePreviewTextures: 1
+  previewMaterial: {fileID: 0}
+--- !u!114 &144683806626712062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: PositionOutput
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1832, y: 328}
+  ports:
+    keys:
+    - output
+    values:
+    - _fieldName: output
+      _node: {fileID: 144683806626712062}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: rhs
+        node: {fileID: -1845405442299436194}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+  isVisible: 0
+  metadataId: 4
+  output:
+    encodedNodeTree: BAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+--- !u!114 &1871011231831569105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: OpenSimplex2
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -2648, y: 40}
+  ports:
+    keys:
+    - output
+    values:
+    - _fieldName: output
+      _node: {fileID: 1871011231831569105}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: source
+        node: {fileID: -5677772118446282477}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+  isVisible: 0
+  metadataId: 9
+  output:
+    encodedNodeTree: CQA=
+--- !u!114 &3156574964033910066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e23366d8e27e33a4189d152df88b9055, type: 3}
+  m_Name: DomainScale
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -1976, y: -72}
+  ports:
+    keys:
+    - output
+    - source
+    values:
+    - _fieldName: output
+      _node: {fileID: 3156574964033910066}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: lhs
+        node: {fileID: -1845405442299436194}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: source
+      _node: {fileID: 3156574964033910066}
+      _typeQualifiedName: ProceduralWorldGraphSystem.FastNoiseTree, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -5677772118446282477}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 1
+  isVisible: 0
+  metadataId: 19
+  output:
+    encodedNodeTree: EwDD9Sg/DQAEAAAAAAAgQAkAAGZmJj8AAAAAPw==
+--- !u!114 &5351833569288743122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d38f450d99f8404fbd0564030bd9c90, type: 3}
+  m_Name: Greater Than
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -152, y: -152}
+  ports:
+    keys:
+    - value
+    - outputIfGreaterThan
+    - outputIfLessOrEqual
+    values:
+    - _fieldName: value
+      _node: {fileID: 5351833569288743122}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: noiseValue
+        node: {fileID: 8741148153728064654}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: outputIfGreaterThan
+      _node: {fileID: 5351833569288743122}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: outputIfLessOrEqual
+      _node: {fileID: 5351833569288743122}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: input
+        node: {fileID: -8471449401483445509}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+  threshold: 0.1
+--- !u!114 &8080864185655154384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e18e229692027cb4094057a8afca3532, type: 3}
+  m_Name: Procedural World Output
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: 504, y: -152}
+  ports:
+    keys:
+    - color
+    - material
+    values:
+    - _fieldName: color
+      _node: {fileID: 8080864185655154384}
+      _typeQualifiedName: UnityEngine.Color32, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 0
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: material
+      _node: {fileID: 8080864185655154384}
+      _typeQualifiedName: System.UInt32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+  testKey:
+    x: 0
+    y: 0
+    z: 0
+    w: 1
+  color:
+    serializedVersion: 2
+    rgba: 0
+  material: 0
+--- !u!114 &8741148153728064654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11299092e936bf844a224c86622096ce, type: 3}
+  m_Name: Noise Iterator 3D
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -712, y: -152}
+  ports:
+    keys:
+    - fastNoiseTree
+    - noiseValue
+    values:
+    - _fieldName: fastNoiseTree
+      _node: {fileID: 8741148153728064654}
+      _typeQualifiedName: VoxelDataGeneratorGraph.FastNoiseTree, VoxelSystem, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -6264965873058260197}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: noiseValue
+      _node: {fileID: 8741148153728064654}
+      _typeQualifiedName: PCGInOut, VoxelSystem, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      connections:
+      - fieldName: value
+        node: {fileID: 5351833569288743122}
+        reroutePoints: []
+      - fieldName: input
+        node: {fileID: -6358505557939680063}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  isExpanded: 0
+  frequency: 0.02
+  seed: 123
+  fastNoiseTree:
+    encodedNodeTree: 

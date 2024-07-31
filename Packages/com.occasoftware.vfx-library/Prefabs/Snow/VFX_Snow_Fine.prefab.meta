@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8394e2c90f6f3d34a8564a397b749839
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Snow/VFX_Snow_Fine.prefab
+  uploadId: 641739

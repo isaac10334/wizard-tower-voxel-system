@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80032fbc4ffc34d4fbc3b0f0e8213beb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Fireworks/VFX_Fireworks.prefab
+  uploadId: 641739

@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3605601959609174856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9dcece110b2866499c16a13520f0077, type: 3}
+  m_Name: Magica Voxel Object
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -472, y: 56}
+  ports:
+    keys:
+    - samplePosition
+    - color
+    - material
+    values:
+    - _fieldName: samplePosition
+      _node: {fileID: -3605601959609174856}
+      _typeQualifiedName: Unity.Mathematics.int2, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: output
+        node: {fileID: -365477931826297622}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: color
+      _node: {fileID: -3605601959609174856}
+      _typeQualifiedName: UnityEngine.Color32, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: color
+        node: {fileID: 3039497748987149162}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: material
+      _node: {fileID: -3605601959609174856}
+      _typeQualifiedName: System.UInt32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: material
+        node: {fileID: 3039497748987149162}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 0
+      _typeConstraint: 0
+      _dynamic: 0
+  voxelFile: {fileID: -1032374344264011112, guid: 4c658b8b3caa46246bf54e66b631b5cb,
+    type: 3}
+  samplePosition:
+    x: 0
+    y: 0
+  color:
+    serializedVersion: 2
+    rgba: 0
+  material: 0
+--- !u!114 &-365477931826297622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 540aecb4814666e4f80dad5912fa2a06, type: 3}
+  m_Name: Uniform Point Sampler 2D
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -856, y: 8}
+  ports:
+    keys:
+    - output
+    - parent
+    - child
+    values:
+    - _fieldName: output
+      _node: {fileID: -365477931826297622}
+      _typeQualifiedName: Unity.Mathematics.int2, Unity.Mathematics, Version=1.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: samplePosition
+        node: {fileID: -3605601959609174856}
+        reroutePoints: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: parent
+      _node: {fileID: -365477931826297622}
+      _typeQualifiedName: ProceduralWorldGraphSystem.PointNodeConnection, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+    - _fieldName: child
+      _node: {fileID: -365477931826297622}
+      _typeQualifiedName: ProceduralWorldGraphSystem.PointNodeConnection, VoxelSystem,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      connections: []
+      _direction: 1
+      _connectionType: 1
+      _typeConstraint: 0
+      _dynamic: 0
+  output:
+    x: 0
+    y: 0
+  voxelsBetweenPoints: 12
+  radius: 10
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4727dded54173054786fabc09d30bea2, type: 3}
+  m_Name: MagicaVoxelTest
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 3039497748987149162}
+  - {fileID: -3605601959609174856}
+  - {fileID: -365477931826297622}
+  previewErrorMessage: 
+  settings:
+    _gridLineColor:
+      serializedVersion: 2
+      rgba: 4282071867
+    _gridBgColor:
+      serializedVersion: 2
+      rgba: 4281348144
+    maxZoom: 5
+    minZoom: 1
+    tintColor:
+      serializedVersion: 2
+      rgba: 4285096282
+    highlightColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridSnap: 1
+    autoSave: 1
+    openOnCreate: 1
+    dragToCreate: 1
+    createFilter: 1
+    zoomToMouse: 1
+    portTooltips: 1
+    typeColorsData: 
+    noodlePath: 0
+    noodleThickness: 2
+    noodleStroke: 0
+  enablePreviewTextures: 1
+  previewMaterial: {fileID: 0}
+--- !u!114 &3039497748987149162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e18e229692027cb4094057a8afca3532, type: 3}
+  m_Name: Procedural World Output
+  m_EditorClassIdentifier: 
+  graph: {fileID: 11400000}
+  position: {x: -152, y: -8}
+  ports:
+    keys:
+    - material
+    - color
+    values:
+    - _fieldName: material
+      _node: {fileID: 3039497748987149162}
+      _typeQualifiedName: System.UInt32, mscorlib, Version=4.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      connections:
+      - fieldName: material
+        node: {fileID: -3605601959609174856}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+    - _fieldName: color
+      _node: {fileID: 3039497748987149162}
+      _typeQualifiedName: UnityEngine.Color32, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      connections:
+      - fieldName: color
+        node: {fileID: -3605601959609174856}
+        reroutePoints: []
+      _direction: 0
+      _connectionType: 1
+      _typeConstraint: 2
+      _dynamic: 0
+  testKey:
+    x: 0
+    y: 0
+    z: 0
+    w: 1
+  color:
+    serializedVersion: 2
+    rgba: 0
+  material: 0

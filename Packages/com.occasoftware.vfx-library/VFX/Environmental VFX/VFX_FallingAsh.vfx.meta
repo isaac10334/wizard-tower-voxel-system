@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1873e5973bece245a96439af9bfc0bf
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_FallingAsh.vfx
+  uploadId: 641739

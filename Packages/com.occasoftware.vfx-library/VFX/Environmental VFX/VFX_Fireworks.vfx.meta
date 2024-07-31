@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d155b9dc21843d74a8fb4a6ec7a8c85b
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Fireworks.vfx
+  uploadId: 641739

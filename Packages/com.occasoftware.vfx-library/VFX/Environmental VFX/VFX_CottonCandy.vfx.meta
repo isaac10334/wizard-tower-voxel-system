@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e64e4283c5284e43a6946c0b5d4d537
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_CottonCandy.vfx
+  uploadId: 641739

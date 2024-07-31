@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 004dd484685665b42ae2661104d6cf18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Pop/VFX_Confetti_Pop_Autumn.prefab
+  uploadId: 641739

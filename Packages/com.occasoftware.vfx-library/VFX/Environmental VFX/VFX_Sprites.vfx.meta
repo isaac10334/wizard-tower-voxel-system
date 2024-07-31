@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d426c401b1bcd10409bf1b87eec5f5da
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_Sprites.vfx
+  uploadId: 641739

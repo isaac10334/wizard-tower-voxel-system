@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3c26980c5c038a4a87c122bd8ae9553
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Dust/VFX_Dust_Heavy.prefab
+  uploadId: 641739

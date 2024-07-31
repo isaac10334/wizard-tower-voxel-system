@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc5a02aecb6fe1f4cb33e100cc5e1673
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/WaterFountain/VFX_WaterFountain_Light.prefab
+  uploadId: 641739

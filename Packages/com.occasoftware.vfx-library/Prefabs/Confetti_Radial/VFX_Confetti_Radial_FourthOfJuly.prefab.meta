@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e5b1b231a5d152439a8fd7327d1a70c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/Confetti_Radial/VFX_Confetti_Radial_FourthOfJuly.prefab
+  uploadId: 641739

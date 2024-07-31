@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f0ab2a28111bad42801f3c14a22347c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/InkBlots_Burst/VFX_InkBlots_Burst.prefab
+  uploadId: 641739

@@ -1,0 +1,31 @@
+{
+    "name": "VoxelSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
+        "GUID:002c1bbed08fa44d282ef34fd5edb138",
+        "GUID:e04e6c86a9f3947eb95fded39f9e60cc",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:17f495d31df1b4f1c90363273beccc77",
+        "GUID:7a450cf7ca9694b5a8bfa3fd83ec635a",
+        "GUID:35afeb21502fbf843a848d97a929cdb4",
+        "GUID:057b885f366e2cf43a4975f013cfd729",
+        "GUID:713fe512bc5c81949bc19b5afdce303d",
+        "GUID:586c26a6ab8923842bcb0848f39b6cf7",
+        "GUID:7c88a4a7926ee5145ad2dfa06f454c67"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

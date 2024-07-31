@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57ca7f92e024e284eb4e7c88fb8cd48c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/Prefabs/ShootingStars/VFX_ShootingStars_Chaotic.prefab
+  uploadId: 641739

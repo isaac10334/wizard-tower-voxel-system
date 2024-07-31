@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 326df96d6c987a94aa5b43a1b5da9bf3
+VisualEffectImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 209648
+  packageName: 'VFX Library: Ambient Visual Effects Pack'
+  packageVersion: 2.2.0
+  assetPath: Packages/com.occasoftware.vfx-library/VFX/Environmental VFX/VFX_DustDevils_LowPoly.vfx
+  uploadId: 641739

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7436842975104232754
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4382462758136341228, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382462758136341228, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382462758136341228, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4382462758136341228, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471394076724868130, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_Name
+      value: VFX_InkBlots_Burst_Small
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Name
+      value: Size
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
+      value: Speed
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Name
+      value: Emission
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Value
+      value: 0.025
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Value
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Value
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[0].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567399058997638787, guid: 5f0ab2a28111bad42801f3c14a22347c,
+        type: 3}
+      propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[2].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5f0ab2a28111bad42801f3c14a22347c, type: 3}
