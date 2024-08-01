@@ -5,22 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b14be8b-c1cc-4994-a70b-ec6f0cdeef9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WizardTowerUnityProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WizardTowerUnityProject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WizardTowerUnityProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WizardTowerUnityProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DefaultPrefabObjects.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultPrefabObjects.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/VoxelSystem/ChunkManagement/LocalVoxelWorldVolume.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VoxelSystem/ChunkManagement/LocalVoxelWorldVolume.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EntitiesClientSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EntitiesClientSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2023.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2023.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VoxelSystem/ChunkManagement/Octree/GenerateLODOctree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VoxelSystem/ChunkManagement/Octree/GenerateLODOctree.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VoxelSystem/Core/VoxelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VoxelSystem/Core/VoxelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VoxelSystem/Data.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VoxelSystem/Jobs/CustomJobUtilities.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/VoxelSystem/Jobs/CustomJobUtilities.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjozOTM0Njc=" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/240ff6271d47469a95269de220922c381dba00/84/15bda983/Gizmos.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/240ff6271d47469a95269de220922c381dba00/a6/8a5380ca/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9384495d2a482ac7341d67ca84e16d267d16c62458a9d67a92b119199a9/System.Threading.Tasks.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WizardTower/Scripts/CanvasNetworkManagerHUD.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -33,14 +41,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;fixing-chunk-gaps&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Isaac\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Isaac\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Isaac\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Isaac\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
       &quot;C:\\Users\\Isaac\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
@@ -55,7 +69,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.3.0b3\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.4f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Isaac\Stuff\Projects\UnityNotDOTS\Wizard-Tower\WizardTowerUnityProject -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Isaac\Stuff\Projects\UnityNotDOTS\Wizard-Tower\WizardTowerUnityProject" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -63,7 +77,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.3.0b3\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.4f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Isaac\Stuff\Projects\UnityNotDOTS\Wizard-Tower\WizardTowerUnityProject -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Isaac\Stuff\Projects\UnityNotDOTS\Wizard-Tower\WizardTowerUnityProject" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -103,10 +117,20 @@
       <workItem from="1708405485512" duration="397000" />
       <workItem from="1708405900906" duration="1790000" />
       <workItem from="1708482796255" duration="904000" />
+      <workItem from="1722466237681" duration="5162000" />
+      <workItem from="1722473176602" duration="319000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

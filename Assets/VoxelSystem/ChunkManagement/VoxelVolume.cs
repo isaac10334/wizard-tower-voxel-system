@@ -38,6 +38,18 @@ public class VoxelVolume : VoxelBehavior
 
     private readonly Dictionary<int3, OctreeChunkSystem> _octrees = new();
 
+    private void OnDrawGizmos()
+    {
+        foreach (var o in _octrees.Values)
+        {
+            foreach (var r in o.activeNodes)
+            {
+                var aabb = r.ToAABB();
+                Gizmos.DrawWireCube(aabb.Center.ToWorldPos(), aabb.Size.ToWorldPos());
+            }
+        }
+    }
+
     public override void OnOwnershipClient(NetworkConnection prevOwner)
     {
         Debug.Log("setting up voxel volume");
@@ -53,6 +65,7 @@ public class VoxelVolume : VoxelBehavior
         {
             return;
         }
+
         var playerWorldPosition = (float3)transform.position;
         var playerVoxelPosition = (int3)(playerWorldPosition / Chunk.LOD0VoxelSize);
         var center = ChunkMath.SnapToGridCenter((int3)playerVoxelPosition, _individualOctreeSize);
@@ -118,7 +131,6 @@ public class VoxelVolume : VoxelBehavior
 
     void OnNodeLoaded(Region region)
     {
-        
         // TODO:
         // add to a high-resolution job completion checking queue.
         // the job that is running is data gen, meshing.
@@ -219,7 +231,7 @@ public class VoxelVolume : VoxelBehavior
     private async void OnUnloadChunk(Region region)
     {
         if (!Application.isPlaying) return;
-    
+
         // This line is a shitty system to avoid gaps between chunks
         await Task.Delay(TimeSpan.FromSeconds(1.5f));
 

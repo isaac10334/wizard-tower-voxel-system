@@ -112,17 +112,5 @@ namespace VoxelSystem
                     new Color32(75, 110, 75, 255));
             }
         }
-
-        private void OnDrawGizmos()
-        {
-            if (_chunks.IsCreated)
-            {
-                var chunkValues = _chunks.GetValueArray(Allocator.Temp);
-                foreach (var c in chunkValues)
-                {
-                    Gizmos.DrawCube(c.Aabb.Center.ToWorldPos(), c.Aabb.Size.ToWorldPos());
-                }
-            }
-        }
     }
 }

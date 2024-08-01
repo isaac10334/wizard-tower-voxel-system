@@ -31,7 +31,7 @@ namespace VoxelSystem
 
         private readonly int _maxLodLevel;
         private readonly int _size;
-        private HashSet<Region> _activeNodes = new();
+        public HashSet<Region> activeNodes = new();
 
         // Temp, returned by job.
         private NativeHashSet<Region> _returnedNewChunkBounds;
@@ -71,7 +71,7 @@ namespace VoxelSystem
             for (int i = 0; i < outNodesArray.Length; i++)
             {
                 var region = outNodesArray[i];
-                if (!_activeNodes.Add(region)) continue;
+                if (!activeNodes.Add(region)) continue;
                 OnNodeLoaded(region);
             }
 
@@ -83,11 +83,11 @@ namespace VoxelSystem
         public void UnloadNodes()
         {
             var toRemove = new List<Region>();
-            foreach (var region in _activeNodes)
+            foreach (var region in activeNodes)
             {
                 if (!_returnedNewChunkBounds.Contains(region))
                 {
-                    if (_activeNodes.Contains(region))
+                    if (activeNodes.Contains(region))
                     {
                         OnUnloadChunk?.Invoke(region);
                     }
@@ -98,7 +98,7 @@ namespace VoxelSystem
 
             foreach (var region in toRemove)
             {
-                _activeNodes.Remove(region);
+                activeNodes.Remove(region);
             }
         }
 

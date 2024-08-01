@@ -53,7 +53,7 @@ namespace VoxelSystem
             return new int3(parentPosition + (deltaSign * delta));
         }
     }
-    
+
     // good for sorting
     public struct AABBSizeComparer : IComparer<AABB>
     {
@@ -85,7 +85,5 @@ namespace VoxelSystem
         {
             return new AABB(center - size / 2, center + size / 2);
         }
-
-
     }
 }

@@ -17,7 +17,7 @@ public static class CustomJobUtilities
 
         while (!handle.IsCompleted)
         {
-            await Task.Yield();
+            await Task.Delay((int)((Time.deltaTime * 0.4) * 1000));
         }
 
         handle.Complete();
