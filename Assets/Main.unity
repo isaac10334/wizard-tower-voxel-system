@@ -2027,8 +2027,8 @@ MonoBehaviour:
   NetworkObserver: {fileID: 0}
   <PrefabId>k__BackingField: 0
   <SpawnableCollectionId>k__BackingField: 0
-  _scenePathHash: 828329878
-  <SceneId>k__BackingField: 3557649738825964163
+  _scenePathHash: 3296019811
+  <SceneId>k__BackingField: 14156297297999475904
   <AssetPathHash>k__BackingField: 0
 --- !u!114 &2141168555
 MonoBehaviour:
@@ -2062,7 +2062,6 @@ MonoBehaviour:
   _componentIndexCache: 1
   _addedNetworkObject: {fileID: 2141168554}
   _networkObjectCache: {fileID: 2141168554}
-  GameSaveName: Test
 --- !u!114 &7103134652073879020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2460,7 +2459,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7103134652378846394}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 280f31d6f8b054f40b424ccf715b4488, type: 3}
+  m_Script: {fileID: 11500000, guid: e767af277eb4d664d8cea99b6c9c6d88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startButtonsGroup: {fileID: 7103134652802339943}
