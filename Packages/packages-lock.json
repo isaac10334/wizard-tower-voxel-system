@@ -9,30 +9,6 @@
       },
       "hash": "b7861dadfbc7b73b61a77b51c6ac01c2990d79d0"
     },
-    "com.cysharp.r3": {
-      "version": "https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity#1.0.0",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.modules.imgui": "1.0.0"
-      },
-      "hash": "cb468d732b27aa98c9020c0578159e544e64ffd2"
-    },
-    "com.github-glitchenzo.nugetforunity": {
-      "version": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "75f68222d0a4bd2b468dbf3e6a17a191d28041ab"
-    },
-    "com.occasoftware.buto": {
-      "version": "file:com.occasoftware.buto",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.render-pipelines.universal": "14.0.7"
-      }
-    },
     "com.occasoftware.vfx-library": {
       "version": "file:com.occasoftware.vfx-library",
       "depth": 0,
@@ -53,12 +29,6 @@
         "com.unity.modules.ai": "1.0.0"
       },
       "url": "https://packages.unity.com"
-    },
-    "com.unity.asset-store-tools": {
-      "version": "file:com.unity.asset-store-tools",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "com.unity.burst": {
       "version": "1.8.15",

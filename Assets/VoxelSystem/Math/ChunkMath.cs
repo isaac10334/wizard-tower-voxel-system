@@ -2,6 +2,7 @@ using Unity.Mathematics;
 using System.Runtime.CompilerServices;
 using Unity.Burst;
 using System;
+using UnityEngine;
 
 namespace VoxelSystem
 {
@@ -222,23 +223,18 @@ namespace VoxelSystem
         {
             return (z * chunkSize * chunkSize) + (y * chunkSize) + x;
         }
-
-        // [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        // public static float3 GetChunkCenterWorldPos(int4 key)
-        // {
-        //     return (float3)(key.xyz) * VoxelEnvironment.VoxelSize;
-        // }
-        // public static float3 VoxelToWorldPosition(int3 voxelPosition)
-        // {
-        //     float3 voxelCenter = (float3)voxelPosition + voxelCenterPosition;
-        //     return voxelCenter * VoxelEnvironment.GlobalResolutionMultiplier;
-        // }
         public static int GetSizeMultiplier(this AABB aabb)
         {
             return aabb.Size.y / Chunk.ChunkSize;
         }
+
+        public static Vector3 ToWorldPos(this int3 voxelPos)
+        {
+            return Chunk.LOD0VoxelSize * (float3)voxelPos;
+        }
     }
 
+    // todo: kind of redundant
     public struct Region : IEquatable<Region>
     {
         public int3 Origin;

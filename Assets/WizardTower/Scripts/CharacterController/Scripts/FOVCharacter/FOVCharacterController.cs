@@ -1,6 +1,5 @@
 ﻿using CharacterCore.Controller;
 using FOVCamera;
-using Mirror;
 using UnityEngine;
 
 namespace FOVCharacter

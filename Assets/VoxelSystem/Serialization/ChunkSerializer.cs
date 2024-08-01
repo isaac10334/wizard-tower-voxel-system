@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using FishNet.Serializing;
-using K4os.Compression.LZ4.Encoders;
 using Unity.Collections;
 using UnityEngine;
 using VoxelSystem;
